@@ -12,4 +12,4 @@ Sou um FullStack Developer :computer:
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript e Delphi
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, e seriados e estudar Inglês, pois o objetivo é trabalhar no exterior.
  <br/> :email: &nbsp; Entre em contato comigo: 
- [![Linkedin Badge](https://img.shields.io/badge/-LevyLennon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levy-lennon-8b6950151/)](https://www.linkedin.com/in/levy-lennon-8b6950151/) | [![Gmail Badge](https://img.shields.io/badge/-levy.lennon@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:levy.lennon@outlook.com)]
+ [![Linkedin Badge](https://img.shields.io/badge/-LevyLennon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levy-lennon-8b6950151/)](https://www.linkedin.com/in/levy-lennon-8b6950151/)  [![Gmail Badge](https://img.shields.io/badge/-levy.lennon@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:levy.lennon@outlook.com)
