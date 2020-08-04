@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://steamuserimages-a.akamaihd.net/ugc/958604157747799137/C19221B90BC050E9DF63CA74E318079453A52F19/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 
 # Levy Lennon
