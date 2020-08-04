@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por programação, comecei a programar no inicio de 2018 e já desenvolvi alguns apps para web! também já trabalhei com programação para desktop, utilizando o Delphi 10.2 :older_man:
-Sou um FullStack Developer :computer:
+
 
  :notebook:  &nbsp; Atualmente estou focado em estudar React para melhorar minhas aplicações web, onde estou focado no momento.
  <br/> :purple_heart: &nbsp; Busco colaborar com projetos de preferência os que usam React, porém posso ajudar em outras linguagens também.
